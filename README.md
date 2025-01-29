@@ -5,3 +5,7 @@
 Para vincular el archivo app.js con el archivo index.html utilizar:
 
 <script></script>
+
+También utilizar el atributo:
+
+src
